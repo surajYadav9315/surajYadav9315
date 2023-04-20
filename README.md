@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<!--
-**surajYadav9315/surajYadav9315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- my name is suraj yadav
+- 💁‍♂️ I'm a 🤖 web developer.
+
+
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanSoni2033)](https://github.com/rohanSoni2033/github-readme-stats)
 
 Here are some ideas to get you started:
 
